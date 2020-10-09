@@ -7,6 +7,7 @@
 [![Latest Stable Version](https://poser.pugx.org/phpoffice/phpspreadsheet/v/stable.png)](https://packagist.org/packages/phpoffice/phpspreadsheet)
 [![License](https://poser.pugx.org/phpoffice/phpspreadsheet/license.png)](https://packagist.org/packages/phpoffice/phpspreadsheet)
 [![Join the chat at https://gitter.im/PHPOffice/PhpSpreadsheet](https://img.shields.io/badge/GITTER-join%20chat-green.svg)](https://gitter.im/PHPOffice/PhpSpreadsheet)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLarsiii%2FPhpSpreadsheet.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FLarsiii%2FPhpSpreadsheet?ref=badge_shield)
 
 PhpSpreadsheet is a library written in pure PHP and providing a set of classes that allow you to read from and to write to different spreadsheet file formats, like Excel and LibreOffice Calc.
 
@@ -27,3 +28,6 @@ Do you need to migrate? There is [an automated tool](/docs/topics/migration-from
 ## License
 
 PhpSpreadsheet is licensed under [MIT](https://github.com/PHPOffice/PhpSpreadsheet/blob/master/LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLarsiii%2FPhpSpreadsheet.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FLarsiii%2FPhpSpreadsheet?ref=badge_large)
